@@ -1,0 +1,17 @@
+{
+  "employees": [
+   
+    {
+      "name": "GOD",
+      "location": "GOD",
+      "department": "GOD",
+      "id": 5
+    },
+    {
+        "name": "Kenny Joi",
+        "location": "Rivers",
+        "department": "Surviving",
+        "id": 6
+      }
+  ]
+}
